@@ -4,5 +4,5 @@ Welcome to the **Intelligent Systems Club (ISC)** at ISIMS!
 
 ## Members
 
-- Laadhar
-- Mouna
+- Laadhar Mouna
+- Ypussef Jarraya
