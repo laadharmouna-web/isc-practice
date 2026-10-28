@@ -6,3 +6,8 @@ Welcome to the **Intelligent Systems Club (ISC)** at ISIMS!
 
 - Laadhar Mouna
 - Ypussef Jarraya
+
+
+## Favorite Programming Language
+
+Python — because it is easy to start with!
